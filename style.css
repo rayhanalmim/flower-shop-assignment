@@ -1,0 +1,67 @@
+/* common shared style */
+*{
+    margin: 0px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+}
+.common-h3{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.common-prgh{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+/* herder style */
+.herder-container{
+    width: auto;
+    height: 700px;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+}
+.div-container{
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+}
+.img{
+    margin-top: 50px;
+}
+.header-prgh{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+/* --------------section 1------------ */
+.sec1-head{
+    padding-top: 100px;
+}
+.sec1-h3{
+    padding-bottom: 20px;
+}
+.sec1-prgh{
+    padding-bottom: 20px;
+}
