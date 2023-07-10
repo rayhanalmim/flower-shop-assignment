@@ -63,5 +63,49 @@ h1{
     padding-bottom: 20px;
 }
 .sec1-prgh{
-    padding-bottom: 20px;
+    padding-bottom: 50px;
+}
+.sec1-card{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 100px;
+    margin-bottom: 32px;
+}
+.card1{
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 400px;
+    height: 500px;
+}
+.card-img{
+    margin-left: 50px;
+    margin-top: 72px;
+}
+.card-img3{
+    margin-left: 50px;
+    margin-top: 28px;
+}
+.card2{
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 400px;
+    height: 500px;
+}
+.card3{
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 400px;
+    height: 500px;
+}
+li{
+    text-decoration: underline;
+    list-style: none;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+}
+.card-title{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 100px;
 }
