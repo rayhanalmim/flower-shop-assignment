@@ -70,6 +70,7 @@ h1{
     justify-content: space-around;
     margin: 0px 100px;
     margin-bottom: 32px;
+    gap: 20px;
 }
 .card1{
     background-color: rgba(167, 33, 98, 0.15);
@@ -108,4 +109,30 @@ li{
     display: flex;
     justify-content: space-around;
     margin: 0px 100px;
+}
+.section-1{
+    margin-bottom: 100px;
+}
+
+/* ----------section-2----------- */
+.section-2{
+    background-color: rgba(229, 84, 115, 0.05);
+    height: 620px;
+    display: flex;
+    
+}
+.btn-center{
+    text-align: center;
+
+}
+.sec2-info{
+    align-items: center;
+}
+.sec2-img{
+    margin: 50px 0px 50px 100px;
+    text-align: right;
+    margin-right: auto;
+}
+span{
+    color: #E55473;
 }
