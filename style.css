@@ -120,6 +120,9 @@ li{
     height: 620px;
     display: flex;
     margin-bottom: 50px;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 100px;
 }
 .btn-center{
     text-align: center;
@@ -165,6 +168,9 @@ span{
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .email-fleld{
     display: flex;
@@ -182,4 +188,37 @@ span{
 }
 .section4{
     margin-bottom: 100px;
+}
+/* ----------------------section5------------------ */
+
+/* ------------------------footer------------------- */
+footer{
+    height: 449px;
+    background-color: #111010;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-head{
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.footere-prgh{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 65%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.footer-copyright{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 }
