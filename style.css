@@ -164,7 +164,7 @@ span{
 .section4{
     margin: 0px 200px;
     height: 400px;
-    background-image: url('/flowerasset/Rectangle9.png');
+    background-image: url('./flowerasset/Rectangle9.png');
     display: flex;
     align-items: center;
     justify-content: center;
@@ -222,3 +222,5 @@ footer{
     font-size: 16px;
     font-weight: 400;
 }
+
+/* ----------------------------------------- */
