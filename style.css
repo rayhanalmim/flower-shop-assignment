@@ -190,7 +190,40 @@ span{
     margin-bottom: 100px;
 }
 /* ----------------------section5------------------ */
+.carrd{
+    width: 300px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 3px white;
+    background-color: rgba(229, 84, 115, 0.05);
+    border-radius: 7px;
+    margin: 30px 40px 100px 40px;
+}
+.carrd:hover{
+    box-shadow: 10px 10px 10px rgb(165, 157, 157);
+}
+.carrd-img{
+    width: 100%;
+    border-radius: 12px 12px 0px 0px;
 
+}
+.carrd-title{
+    padding: 20px 0px 5px 20px;
+    font-size: 30px;
+    color: #E55473;
+    font-weight: 800;
+
+}
+.carrd-body{
+    padding: 20px;
+    color: rgba(39, 39, 39, 0.60);
+}
+.carrd-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
 /* ------------------------footer------------------- */
 footer{
     height: 449px;
